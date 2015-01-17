@@ -35,4 +35,5 @@ rss: atom.xml
 fancybox: true
 favicon: favicon.png
 duoshuo_shortname: ChildhoodAndy
-google_analytics:
+google_analytics: false
+qq_analytics: true
